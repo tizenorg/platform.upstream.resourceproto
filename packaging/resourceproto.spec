@@ -1,3 +1,5 @@
+%bcond_with x
+
 Name:           resourceproto
 Version:        1.2.0
 Release:        1
